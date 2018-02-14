@@ -1,0 +1,8 @@
+h1	{color:#aaff00; margin-left:15px;}
+h2 {color:#00ff99; margin-left: 15px}
+#nav {border:3px  solid #00ffff; margin: 10px 5px 15px 20px; padding: 10px 5px 15px 20px;}
+#nav a {text-decoration:none; color:magenta;}
+
+.recomended {color: salmon;
+	font-family:Arial; margin-left: 15px;
+}
